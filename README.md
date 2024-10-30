@@ -2,7 +2,11 @@
 
 A dynamic and interactive quote generator application built with Python and Tkinter that helps users find inspiration through various categories of quotes, with mood-based recommendations and social features.
 
-![Main Application Interface](screenshots/SC (5).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(1).png)
+(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
+(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(3).png)
+(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(4).png)
+(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(5).png)
 
 ## 🌈 Features
 
@@ -17,7 +21,7 @@ A dynamic and interactive quote generator application built with Python and Tkin
   - Color-changing interface
   - Sound effects for quote generation
 
-![Quote Categories](screenshots/SC (4).png)
+![Quote Categories](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
 
 ## 🚀 Core Functionalities
 
@@ -46,7 +50,7 @@ A dynamic and interactive quote generator application built with Python and Tkin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youthful-quote-generator.git
+git clone https://github.com/dundd2/youthful-quote-generator.git
 cd youthful-quote-generator
 ```
 
@@ -87,6 +91,3 @@ python main.py
    - Add comments
    - Share on social media
    - Create custom quotes
-
-
-![Screenshot 2023-09-27 002227](https://github.com/dunc4009/firstwebsideofdunc/assets/105787911/dc34b094-6dd8-4c76-8cd0-e63dffd81512)
