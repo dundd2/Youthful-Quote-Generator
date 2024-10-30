@@ -46,7 +46,7 @@ A dynamic and interactive quote generator application built with Python and Tkin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youthful-quote-generator.git
+git clone https://github.com/dundd2/youthful-quote-generator.git
 cd youthful-quote-generator
 ```
 
