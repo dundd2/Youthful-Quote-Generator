@@ -2,11 +2,12 @@
 
 A dynamic and interactive quote generator application built with Python and Tkinter that helps users find inspiration through various categories of quotes, with mood-based recommendations and social features.
 
+## ScreenShot:
 ![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(1).png)
-(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
-(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(3).png)
-(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(4).png)
-(https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(5).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(3).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(4).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(5).png)
 
 ## 🌈 Features
 
@@ -20,8 +21,6 @@ A dynamic and interactive quote generator application built with Python and Tkin
 - **Interactive User Experience**
   - Color-changing interface
   - Sound effects for quote generation
-
-![Quote Categories](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
 
 ## 🚀 Core Functionalities
 
@@ -58,11 +57,6 @@ cd youthful-quote-generator
 ```bash
 pip install pyttsx3
 ```
-
-Note: Tkinter usually comes pre-installed with Python. If it's not installed, you can install it using:
-- For Windows: It comes with Python installation
-- For Ubuntu/Debian: `sudo apt-get install python3-tk`
-- For macOS with Homebrew: `brew install python-tk`
 
 3. Run the application:
 ```bash
