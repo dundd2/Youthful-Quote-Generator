@@ -3,11 +3,11 @@
 A dynamic and interactive quote generator application built with Python and Tkinter that helps users find inspiration through various categories of quotes, with mood-based recommendations and social features.
 
 ## ScreenShot:
-![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(1).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(5).png)
 ![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(2).png)
 ![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(3).png)
 ![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(4).png)
-![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(5).png)
+![ScreenShot](https://github.com/dundd2/Youthful-Quote-Generator/blob/main/Screenshots/SC%20(1).png)
 
 ## 🌈 Features
 
@@ -73,8 +73,6 @@ python main.py
    - Select a category from the dropdown menu
    - Click "Generate Quote" button
    - Enjoy the color-changing interface and sound effects
-
-![Quote Generation Demo](screenshots/SC (3).png)
 
 3. **Mood-Based Quotes**
    - Select your current mood
