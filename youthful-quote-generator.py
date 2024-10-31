@@ -34,7 +34,7 @@ quotes = {
         "Love is the music of the heart; let it play."
     ],
     "Life": [
-        "Life is not easy, but we must learn to enjoy every moment.",
+        "Life is not easy for everyone, but we must learn to enjoy every moment.",
         "Every challenge is an opportunity for growth.",
         "Young life is like a blank canvas, waiting for us to fill it.",
         "Life is a journey; embrace every twist and turn."
