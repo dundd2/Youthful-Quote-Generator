@@ -103,6 +103,12 @@ An inspirational quote generator that offers:
 
 ## 💻 Installation Guide
 
+### Method 1: Using Executable
+1. Download the latest release:
+   - Get `YouthfulQuoteGenerator.exe` from the Releases page
+   - Simply double-click to run, no installation required
+
+### Method 2: From Source Code
 1. Clone the repository:
 ```bash
 git clone https://github.com/dundd2/youthful-quote-generator.git
@@ -118,6 +124,8 @@ pip install pyttsx3
 ```bash
 python main.py
 ```
+
+Alternatively, you can use the provided .exe file for easier usage.
 
 ## 💡 Usage Instructions
 
